@@ -1,0 +1,7 @@
+__pycache__/ 
+*.pyc 
+.env 
+Results/ 
+temp/ 
+cert.pem 
+*.log 
